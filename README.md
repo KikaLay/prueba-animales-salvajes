@@ -1,4 +1,3 @@
-https://kikalay.github.io/prueba-animales-salvajes/
 En esta
 prueba crearemos una aplicación web que permita agregar en una tabla los animales en
 investigación, utilizando el paradigma POO para la creación de las instancias que
@@ -10,4 +9,4 @@ representen los diferentes animales con sus atributos y métodos.
 - Funciones async / await.
 - Instancias de clases.
 - Obtener y modificar elementos del DOM.
-### Visita: [Prueba Animales Salvajes](http://diegocampuzano.ml/prueba-animales-salvajes/)
+### Visita: [Prueba Animales Salvajes](https://kikalay.github.io/prueba-animales-salvajes/)
