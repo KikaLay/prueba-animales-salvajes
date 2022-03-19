@@ -9,4 +9,3 @@ representen los diferentes animales con sus atributos y métodos.
 - Funciones async / await.
 - Instancias de clases.
 - Obtener y modificar elementos del DOM.
-### Visita: [Prueba Animales Salvajes](https://kikalay.github.io/prueba-animales-salvajes/)
